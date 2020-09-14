@@ -78,6 +78,13 @@ Provide details of execution environment - Memory Limit
 
 Has various properties and method of gettimeoutmilisec
 
+### Logging using cloud watch service 
+
+Log group name and Log stream name are also get from context object
+
+Used for Logging 
+
+
 
 
 
