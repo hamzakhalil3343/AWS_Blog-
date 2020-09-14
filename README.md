@@ -8,13 +8,13 @@ Java ,Python ,Go ,Node and c#
 
 ### Used
 
- -> Image Processing in apple ,android and Linux machine 
+ 1- Image Processing in apple ,android and Linux machine 
  
- -> Analyzed the Soclial media data eg Trending 
+ 2- Analyzed the Soclial media data eg Trending 
  
 ### Companies using 
 
- -> Coca Cola ,Robot ,Bencling and NordStrom
+ =>  Coca Cola ,Robot ,Bencling and NordStrom
  
 ### How it Works ?
  
@@ -35,3 +35,13 @@ Two buckets for data
 Uses IAM Roles and Policies
 
 Send Data from source to Destination Bucket Using lambda functions By defining their proper roles
+
+### Function as a service arcitecture (ServerLess)
+
+Single Function act as a service 
+
+### Pay for use 
+
+For no container ,amount of money is zero and increases with no of containers
+
+
