@@ -84,9 +84,9 @@ Log group name and Log stream name are also get from context object
 
 Used for Logging 
 
-**Lambda functions can be created from Online code Editor or from Zip file **
+**Lambda functions can be created from Online code Editor or from Zip file**
 
-**Creating Lambda Functions from AWS CLI**
+**Lambda Functions can be created  from AWS CLI**
 
 
 
