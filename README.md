@@ -44,4 +44,41 @@ Single Function act as a service
 
 For no container ,amount of money is zero and increases with no of containers
 
+### In services go to lambda  
+
+code sec  for code writing 
+
+Configuration sec for configuration in other files like index.handler 
+
+### handler Function
+
+exports.handler=(event,context,callback)=>{
+
+}
+
+### Event Object 
+
+**AWS Services**
+
+1 - Amazon s3 service (HTML,CSS,Js) used for static files
+
+2-  API gateway
+
+3- DyanmoDB
+
+When a new image is uploaded ,in which s3 bucket it is uploaded and name of object and that data is transfered to lambda function,That data is stored in event 
+
+object.
+
+### Context Object
+
+Provide runtime information - Function name
+
+Provide details of execution environment - Memory Limit
+
+Has various properties and method of gettimeoutmilisec
+
+
+
+
 
