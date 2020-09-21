@@ -88,6 +88,12 @@ Used for Logging
 
 **Lambda Functions can be created  from AWS CLI**
 
+### Triggers
+
+A trigger is a Lambda resource or a resource in another service that you configure to invoke your function in response to lifecycle events, external requests, or on a schedule. Your function can have multiple triggers. Each trigger acts as an client invoking your function independently.
+
+
+
 
 
 
