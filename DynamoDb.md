@@ -18,8 +18,16 @@ It will again store data in partitions but with sorted order of the sword Key / 
 
 if Partition two  has bulk of requests, even we have  400 RCU we can only use 200.
 
-                    **This was still a  Problem until  2019 May (DynamoDb Released Adaptive Capacity Concept in which u can borrow from other side Free RCU )**
+     **This was still a  Problem until  2019 May (DynamoDb Released Adaptive Capacity Concept in which u can borrow from other side Free RCU )**
                                      
-### when to use what ?**
+### when to use what ?
 
 ![](Images/Usage.png)
+
+## Use Prefixes , Sufixes and composed Partition key DAX.
+
+### Global Secondary Index
+
+If U use filters , u have to scan each row and it may become cost effective in some time .
+
+![](Images/GSIWork.png)
