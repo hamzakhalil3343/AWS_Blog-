@@ -42,6 +42,7 @@ When u want to check,having partition key someThing with Sort key something and 
 **Limitations of LSI**
 
 1- It can Only be defined at Table creation Time .
+
 2- Limited to 5 LSI`s
         
                                 **No Extra Cost**
@@ -53,4 +54,7 @@ RCU AND WCU
 Consumed Capacity and Provisioned Capacity 
 
 ![](Images/AutoScaling.png)
+
+
+                                          **Scale Up Early and Scale down Late **
 
