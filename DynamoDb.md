@@ -76,6 +76,7 @@ No Performance impact on source table
 Super Easy integration with AWS Lambda Functions 
 
 
+![](Images/P&O.png)
 
 
 
