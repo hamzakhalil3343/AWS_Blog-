@@ -45,6 +45,7 @@ When u want to check,having partition key someThing with Sort key something and 
 2- Limited to 5 LSI`s
         
                                 **No Extra Cost**
+
 ### AutoScaling 
 
 RCU AND WCU 
@@ -52,3 +53,4 @@ RCU AND WCU
 Consumed Capacity and Provisioned Capacity 
 
 ![](Images/AutoScaling.png)
+
