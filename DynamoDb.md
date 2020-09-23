@@ -56,5 +56,43 @@ Consumed Capacity and Provisioned Capacity
 ![](Images/AutoScaling.png)
 
 
-                                          **Scale Up Early and Scale down Late **
+                                          **Scale Up Early and Scale down Late**
+
+
+### DynamoDB Stream
+
+Feature that emits Events when modification Occurs on DynamoDB.
+
+## Features
+
+Guaranteed,in order Events
+
+Customizable events- Key Only,New image(Version),Old Image,New & Old Image
+
+Batch Processes
+
+No Performance impact on source table 
+
+Super Easy integration with AWS Lambda Functions 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
