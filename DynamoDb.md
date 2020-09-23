@@ -14,4 +14,6 @@ It will again store data in partitions but with sorted order of the sword Key / 
 
 ### Problem In Primary key 
 
+![](Images/ProblemPrimaryKey.png)
+
                                      
