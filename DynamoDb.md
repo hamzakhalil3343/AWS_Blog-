@@ -30,4 +30,6 @@ if Partition two  has bulk of requests, even we have  400 RCU we can only use 20
 
 If U use filters , u have to scan each row and it may become cost effective in some time .
 
+### How It Works ActuallY ?
+
 ![](Images/GSIWork.png)
