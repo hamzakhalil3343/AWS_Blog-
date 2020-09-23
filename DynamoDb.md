@@ -25,7 +25,7 @@ if Partition two  has bulk of requests, even we have  400 RCU we can only use 20
 ![](Images/Usage.png)
 
 ## Use Prefixes , Sufixes and composed Partition key DAX.
-<<<<<<< HEAD
+
 
 ### Global Secondary Index
 
@@ -34,5 +34,21 @@ If U use filters , u have to scan each row and it may become cost effective in s
 ### How It Works ActuallY ?
 
 ![](Images/GSIWork.png)
-=======
->>>>>>> bb2668b5e9064d8b569c135742dd7b9aaf47cdbc
+
+### What is Local Secondary index ?
+
+When u want to check,having partition key someThing with Sort key something and having attribute or starts with aa etc.
+
+**Limitations of LSI**
+
+1- It can Only be defined at Table creation Time .
+2- Limited to 5 LSI`s
+        
+                                **No Extra Cost**
+### AutoScaling 
+
+RCU AND WCU 
+
+Consumed Capacity and Provisioned Capacity 
+
+![](Images/AutoScaling.png)
