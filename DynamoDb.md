@@ -25,6 +25,7 @@ if Partition two  has bulk of requests, even we have  400 RCU we can only use 20
 ![](Images/Usage.png)
 
 ## Use Prefixes , Sufixes and composed Partition key DAX.
+<<<<<<< HEAD
 
 ### Global Secondary Index
 
@@ -33,3 +34,5 @@ If U use filters , u have to scan each row and it may become cost effective in s
 ### How It Works ActuallY ?
 
 ![](Images/GSIWork.png)
+=======
+>>>>>>> bb2668b5e9064d8b569c135742dd7b9aaf47cdbc
