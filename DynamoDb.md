@@ -34,3 +34,14 @@ If U use filters , u have to scan each row and it may become cost effective in s
 ### How It Works ActuallY ?
 
 ![](Images/GSIWork.png)
+
+### What is Local Secondary index ?
+
+When u want to check,having partition key someThing with Sort key something and having attribute or starts with aa etc.
+
+**Limitations of LSI**
+
+1- It can Only be defined at Table creation Time .
+2- Limited to 5 LSI`s
+        
+                                **No Extra Cost**
